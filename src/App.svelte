@@ -26,5 +26,6 @@ let end;
 		border-bottom: 1px solid #333;
 		min-height: 200px;
 		height: calc(100vh - 15em);
+		margin-bottom: 50px;
 	}
 </style>

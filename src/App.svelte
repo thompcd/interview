@@ -17,6 +17,8 @@ let end;
 	</VirtualList>
 	<p>Displaying questions {start + 1}-{end}</p>
 </div>
+<h4>Built using Svelte V3</h4>
+<h4>Source available at: https://github.com/thompcd/interview</h4>
 
 <style>
 	.container {
